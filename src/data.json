@@ -1,0 +1,426 @@
+// this is example wich will be publish on github to connect to web-dev-tools index.json
+
+
+
+
+{
+    "codeEditors" : [
+    {
+    "id" : "1",
+    "name": "GITHUB",
+    "link":"https://github.com/"
+    },
+    {
+    "id" : "2",
+    "name": "Stackblitz",
+    "link":"https://stackblitz.com/"
+    },
+    {
+    "id" : "3",
+    "name": "JSfiddle",
+    "link":"https://jsfiddle.net/"
+    },
+    {
+    "id" : "4",
+    "name": "Codepen",
+    "link":"https://codepen.io/"
+    }
+    ],
+    
+    "optimization" : [
+    {
+    "id" : "1",
+    "name": "Image optimization",
+    "link": "https://imagecompressor.com/ru/"
+    },
+    {
+    "id" : "2",
+    "name": "W3 validator",
+    "link":"https://validator.w3.org/"
+    }
+    
+    ],
+    
+    "tools" : [
+    {
+    "id" : "1",
+    "name": "Can in use",
+    "link": "https://caniuse.com/"
+    },
+    {
+    "id" : "2",
+    "name": "Check your social media share previews",
+    "link":"https://socialsharepreview.com/"
+    },
+    {
+    "id" : "3",
+    "name": "SEO online checker",
+    "link":"https://suite.seotesteronline.com/"
+    },
+    
+    {
+    "id" : "4",
+    "name": "IMG on Server imgur.com",
+    "link":"https://imgur.com/"
+    },
+    
+    {
+    "id" : "5",
+    "name": "Smart Assistant",
+    "link":"https://you.com/?chatMode=default"
+    },
+    
+    {
+    "id" : "",
+    "name": "Rico's cheatsheets",
+    "link":"https://devhints.io/"
+    }
+    ],
+    
+    "js-tools" : [
+    {
+    "id" : "1",
+    "name": "JS beautifier",
+    "link": "https://beautifier.io/"
+    },
+    {
+    "id" : "2",
+    "name": "Online jQuery to JavaScript Converter",
+    "link": "https://properprogramming.com/tools/converters/jquery-to-javascript-remover-converter-online-alternative-version-2/"
+    },
+    
+    {
+    "id" : "3",
+    "name": "JSON validator",
+    "link": "https://jsonlint.com/"
+    }
+    
+    
+    ],
+    
+    "css-tools" : [
+    {
+    "id" : "1",
+    "name": "CSS button generator",
+    "link": "https://www.htmlcssbuttongenerator.com/css-button-generator.html"
+    },
+    
+    {
+    "id" : "2",
+    "name": "CONVERTER WEBP WEBM and more",
+    "link": "https://www.online-convert.com/"
+    },
+    {
+    "id" : "3",
+    "name": "Generate blob download as svg",
+    "link": "https://www.blobmaker.app/"
+    },
+    
+    {
+    "id" : "4",
+    "name": "Generate wawe and downloas as svg",
+    "link": "https://getwaves.io/"
+    },
+    
+    {
+    "id" : "5",
+    "name": "Generate Soft-UI CSS code",
+    "link": "https://neumorphism.io/#e0e0e0"
+    },
+    
+    {
+    "id" : "6",
+    "name": "Glassmorphism effect",
+    "link": "https://hype4.academy/tools/glassmorphism-generator"
+    },
+    {
+    "id" : "7",
+    "name": "Glow generator",
+    "link": "https://cssbud.com/css-generator/css-glow-generator/"
+    },
+    
+    {
+    "id" : "8",
+    "name": "Cubic blaizer",
+    "link": "https://cubic-bezier.com/#.17,.67,.83,.67"
+    },
+    
+    {
+    "id" : "9",
+    "name": "CSS code generator",
+    "link": "http://css3generator.com/"
+    },
+    
+    {
+    "id" : "10",
+    "name": "CSS Clip Path",
+    "link": "https://bennettfeely.com/clippy/"
+    },
+    {
+    "id" : "11",
+    "name": "CSS Grid generator",
+    "link": "https://cssgrid-generator.netlify.app/"
+    },
+    
+    {
+    "id" : "12",
+    "name": "Онлайн декодер WebP",
+    "link": "https://squoosh.app/"
+    },
+    
+    {
+    "id" : "13",
+    "name": "Convert to svg",
+    "link": "https://convertio.co/"
+    },
+    
+    {
+    "id" : "14",
+    "name": "Convert video",
+    "link": "https://video-converter.com/ru"
+    },
+    {
+    "id" : "15",
+    "name": "Create favicon",
+    "link": "https://www.favicon.by/"
+    },
+    
+    {
+    "id" : "16",
+    "name": "html, css, js minimize beautifuler",
+    "link": "https://beautifytools.com/"
+    },
+    
+    {
+    "id" : "17",
+    "name": "SCSS to CSS converter",
+    "link": "https://jsonformatter.org/scss-to-css"
+    },
+    
+    {
+    "id" : "18",
+    "name": "PUG to HTML converter",
+    "link": "https://pughtml.com/"
+    },
+    {
+    "id" : "19",
+    "name": "HTML CSS JS formatter , converter, beautifier",
+    "link": "https://jsonformatter.org/"
+    },
+    
+    {
+    "id" : "20",
+    "name": "Formatter free HTML",
+    "link": "https://www.freeformatter.com/html-formatter.html#before-output"
+    },
+    
+    {
+    "id" : "21",
+    "name": "HTML Escape",
+    "link": "https://www.freeformatter.com/html-escape.html#before-output"
+    },
+    
+    {
+    "id" : "22",
+    "name": "SVG logos",
+    "link": "https://www.iconfinder.com/search?q=x+twitter"
+    },
+    {
+    "id" : "23",
+    "name": "GIF maker",
+    "link": "https://ezgif.com/maker"
+    },
+    
+    {
+    "id" : "24",
+    "name": "Favicon maker",
+    "link": "https://favicon.io/favicon-generator/"
+    },
+    
+    {
+    "id" : "25",
+    "name": "VANTA backgrounds in js",
+    "link": "https://www.vantajs.com/"
+    },
+    
+    {
+    "id" : "26",
+    "name": "Normalaize CSS",
+    "link": "https://necolas.github.io/normalize.css/"
+    },
+    {
+    "id" : "27",
+    "name": "Glassmorphism",
+    "link": "https://hype4.academy/tools/glassmorp"
+    },
+    
+    {
+    "id" : "28",
+    "name": "Neumorphism",
+    "link": "https://neumorphism.io/"
+    },
+    
+    {
+    "id" : "29",
+    "name": "CSS Grid Generator",
+    "link": "https://cssgrid-generator.netlify.app"
+    },
+    
+    {
+    "id" : "30",
+    "name": "CSS Layout Generator",
+    "link": "https://layout.bradwoods.io"
+    },
+    {
+    "id" : "31",
+    "name": "Clip-path maker",
+    "link": "https://bennettfeely.com/clippy"
+    },
+    
+    {
+    "id" : "32",
+    "name": "Loaders",
+    "link": "https://cssloaders.github.io"
+    },
+    
+    {
+    "id" : "33",
+    "name": "Shape Divider",
+    "link": "https://www.shapedivider.app"
+    },
+    
+    {
+    "id" : "34",
+    "name": "Beautiful Designs in a few clicks",
+    "link": "https://superdesigner.co/"
+    },
+    {
+    "id" : "35",
+    "name": "PatternPa",
+    "link": "https://patternpad.com"
+    },
+    
+    {
+    "id" : "36",
+    "name": "Mesher",
+    "link": "https://www.csshero.org/mesher"
+    },
+    
+    {
+    "id" : "37",
+    "name": "Animista",
+    "link": "https://animista.net"
+    },
+    
+    {
+    "id" : "38",
+    "name": "UI Flare Box Shadow",
+    "link": "https://htmlcssfreebies.com/"
+    },
+    {
+    "id" : "39",
+    "name": "SVG flags",
+    "link": "https://flagicons.lipis.dev/"
+    }
+    ],
+    
+    "google-tools" : [
+    {
+    "id" : "1",
+    "name": "PageSpeed Insights",
+    "link": "https://pagespeed.web.dev/"
+    },
+    {
+    "id" : "2",
+    "name": "Google Аналитика",
+    "link": "https://analytics.google.com/analytics/web/provision/?authuser=0#/provision/create"
+    },
+    {
+    "id" : "3",
+    "name": "Google Search Console",
+    "link": "https://search.google.com/search-console/welcome"
+    },
+    {
+    "id" : "4",
+    "name": "generate robots.txt file",
+    "link": "https://pr-cy.ru/robots/"
+    },
+    {
+    "id" : "5",
+    "name": "generate sitemap.xml",
+    "link": "https://www.xml-sitemaps.com/"
+    }
+    ],
+    
+    "cheat-sheet-websites" : [
+    {
+    "id" : "1",
+    "name": "HTML CSS JS cheats",
+    "link": "https://htmlcheatsheet.com/js/"
+    },
+    {
+    "id" : "2",
+    "name": "JavaScript cheatsheet",
+    "link": "https://quickref.me/javascript"
+    },
+    {
+    "id" : "3",
+    "name": "React.js cheatshee",
+    "link": "https://devhints.io/react"
+    },
+    {
+    "id" : "4",
+    "name": "HTML CSS JS cheats",
+    "link": "https://overapi.com/javascript"
+    },
+    {
+    "id" : "5",
+    "name": "React cheats 1",
+    "link": "https://senior.ua/articles/shpargalka-po-react"
+    },
+    {
+    "id" : "6",
+    "name": "React cheats 2",
+    "link": "https://my-js.org/docs/other/best-practices/"
+    }
+    ],
+    
+    "learn-english" : [
+    {
+    "id" : "1",
+    "name": "Grammarly",
+    "link": "https://app.grammarly.com/"
+    },
+    {
+    "id" : "2",
+    "name": "Test-English",
+    "link": "https://test-english.com/"
+    },
+    
+    {
+    "id" : "3",
+    "name": "Most used verbs",
+    "link": "https://englishstudyhere.com/"
+    },
+    {
+    "id" : "4",
+    "name": "Langeek",
+    "link": "https://dictionary.langeek.co/"
+    },
+    
+    {
+    "id" : "5",
+    "name": "Woordhunt",
+    "link": "https://wooordhunt.ru/dic/content/en_ru"
+    },
+    {
+    "id" : "6",
+    "name": "Youglish",
+    "link": "https://youglish.com/"
+    }
+    ]
+    
+    
+    
+    }
+    
