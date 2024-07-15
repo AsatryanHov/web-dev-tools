@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-dev-tools/static/css/main.ba071ddd.css",
+    "main.js": "/web-dev-tools/static/js/main.5213f517.js",
+    "index.html": "/web-dev-tools/index.html",
+    "main.ba071ddd.css.map": "/web-dev-tools/static/css/main.ba071ddd.css.map",
+    "main.5213f517.js.map": "/web-dev-tools/static/js/main.5213f517.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba071ddd.css",
+    "static/js/main.5213f517.js"
+  ]
+}
